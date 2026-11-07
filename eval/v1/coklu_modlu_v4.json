@@ -1,0 +1,344 @@
+{
+ "goruntu": {
+  "model": "SmolVLM-500M-Instruct",
+  "mod": "alan",
+  "n": 12,
+  "alan_dogrulugu": {
+   "irsaliye_no": 1.0,
+   "tedarikci": 0.417,
+   "urun": 0.083,
+   "miktar_ton": 1.0,
+   "arac_plaka": 1.0,
+   "tarih": 1.0
+  },
+  "karar_dogrulugu": 0.333,
+  "kritik_hata": 0,
+  "ort_sure_sn": 346.7,
+  "detay": [
+   {
+    "dosya": "irsaliye_01.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0412",
+     "tedarikci": "Delta Emitia SRL",
+     "urun": "Miktar",
+     "miktar_ton": 200.0,
+     "arac_plaka": "34 ABC 123",
+     "tarih": "12.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_02.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0413",
+     "tedarikci": "Delta Emitia SRL",
+     "urun": "Miktar",
+     "miktar_ton": 187.5,
+     "arac_plaka": "34 ABC 123",
+     "tarih": "12.11.2026"
+    },
+    "beklenen_karar": "INSAN_KONTROLU",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_03.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0420",
+     "tedarikci": "Alfa Tahli A.S",
+     "urun": "Miktar",
+     "miktar_ton": 100.0,
+     "arac_plaka": "06 TR 4521",
+     "tarih": "13.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_04.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0431",
+     "tedarikci": "Gama Agro S.A",
+     "urun": "Malin cinsi",
+     "miktar_ton": 250.0,
+     "arac_plaka": "35 KL 908",
+     "tarih": "14.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_05.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0432",
+     "tedarikci": "Gama Agro S.A",
+     "urun": "Mısır",
+     "miktar_ton": 251.8,
+     "arac_plaka": "35 KL 908",
+     "tarih": "14. 11. 2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_06.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0440",
+     "tedarikci": "Beta Grain Ltd",
+     "urun": "Malin cinsi",
+     "miktar_ton": 30.0,
+     "arac_plaka": "61 AB 777",
+     "tarih": "15.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_07.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0447",
+     "tedarikci": "Delta Emitia SRL",
+     "urun": "Malin cinsi",
+     "miktar_ton": 150.0,
+     "arac_plaka": "41 DE 2290",
+     "tarih": "16.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_08.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0448",
+     "tedarikci": "Delta Emitia SRL",
+     "urun": "Miktar",
+     "miktar_ton": 150.0,
+     "arac_plaka": "41 DE 2290",
+     "tarih": "16.11.2026"
+    },
+    "beklenen_karar": "INSAN_KONTROLU",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_09.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0452",
+     "tedarikci": "Alfa Tahl A.S",
+     "urun": "Miktar",
+     "miktar_ton": 50.0,
+     "arac_plaka": "06 TR 4521",
+     "tarih": "17.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_10.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0460",
+     "tedarikci": "Epsilon Ticaret Ltd",
+     "urun": "Miktar",
+     "miktar_ton": 200.0,
+     "arac_plaka": "34 HZ 001",
+     "tarih": "18.11.2026"
+    },
+    "beklenen_karar": "INSAN_KONTROLU",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_11.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0471",
+     "tedarikci": "Beta Grain Ltd",
+     "urun": "Miktar",
+     "miktar_ton": 520.0,
+     "arac_plaka": "61 AB 777",
+     "tarih": "19.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "INSAN_KONTROLU",
+    "ham": ""
+   },
+   {
+    "dosya": "irsaliye_12.png",
+    "okunan": {
+     "irsaliye_no": "IRS-2026-0475",
+     "tedarikci": "Alfa Tahl A.S",
+     "urun": "Arpa",
+     "miktar_ton": 30.0,
+     "arac_plaka": "06 TR 4522",
+     "tarih": "20.11.2026"
+    },
+    "beklenen_karar": "MAL_KABUL_UYGUN",
+    "verilen_karar": "MAL_KABUL_UYGUN",
+    "ham": ""
+   }
+  ]
+ },
+ "ses": {
+  "temiz": {
+   "ort_wer": 0.191,
+   "detay": [
+    {
+     "ref": "Mısır stoğumuz kaç gün yeter?",
+     "hyp": "Mısır stoğunuz kaç gün yeter.",
+     "wer": 0.2,
+     "maskeli": "Mısır stoğunuz kaç gün yeter.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Kritik seviyedeki ürünleri listele.",
+     "hyp": "kritik seviyedeki ürünleri listeli.",
+     "wer": 0.25,
+     "maskeli": "kritik seviyedeki ürünleri listeli.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Soya küspesinin piyasa fiyatı ne kadar?",
+     "hyp": "Soya küspesinin piyasa fiyatı ne kadar.",
+     "wer": 0.0,
+     "maskeli": "Soya küspesinin piyasa fiyatı ne kadar.",
+     "maskelenen": []
+    },
+    {
+     "ref": "İki yüz ton mısır için teklifleri karşılaştır.",
+     "hyp": "200 ton mısır için teklifleri karşılaştır.",
+     "wer": 0.286,
+     "maskeli": "200 ton mısır için teklifleri karşılaştır.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Arpa için yüz elli tonluk sipariş taslağı hazırla.",
+     "hyp": "Arpa için 150 tonluk sipariş taslar hazırla.",
+     "wer": 0.375,
+     "maskeli": "Arpa için 150 tonluk sipariş taslar hazırla.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Onay bekleyen sipariş var mı?",
+     "hyp": "Onay bekleyen sipariş var mı?",
+     "wer": 0.0,
+     "maskeli": "Onay bekleyen sipariş var mı?",
+     "maskelenen": []
+    },
+    {
+     "ref": "Dolar kuru bugün kaç lira?",
+     "hyp": "Dolar kuru bugün kaç lira?",
+     "wer": 0.0,
+     "maskeli": "Dolar kuru bugün kaç lira?",
+     "maskelenen": []
+    },
+    {
+     "ref": "Ayçiçek yağı için en uygun tedarikçi hangisi?",
+     "hyp": "Ayçiçek yağı için en uygun tedarikçi hangisi.",
+     "wer": 0.0,
+     "maskeli": "Ayçiçek yağı için en uygun tedarikçi hangisi.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Beni sıfır beş yüz otuz iki, yüz on bir, yirmi iki, otuz üç numaradan arayın.",
+     "hyp": "Beni 0-5-132-11-22-33 numaradan arayın.",
+     "wer": 0.8,
+     "maskeli": "Beni [TELEFON] numaradan arayın.",
+     "maskelenen": [
+      "TELEFON"
+     ]
+    },
+    {
+     "ref": "Delta Emtia'dan gelen mısır irsaliyesini siparişle karşılaştır.",
+     "hyp": "Delta Emtia'dan gelen Mısır İrsaliyesi'ni siparişle karşılaştır.",
+     "wer": 0.0,
+     "maskeli": "Delta Emtia'dan gelen Mısır İrsaliyesi'ni siparişle karşılaştır.",
+     "maskelenen": []
+    }
+   ]
+  },
+  "gurultulu_10dB": {
+   "ort_wer": 0.552,
+   "detay": [
+    {
+     "ref": "Mısır stoğumuz kaç gün yeter?",
+     "hyp": "Mısır stoğunun kaç menit'e.",
+     "wer": 0.6,
+     "maskeli": "Mısır stoğunun kaç menit'e.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Kritik seviyedeki ürünleri listele.",
+     "hyp": "kritik seviyedeki ünlülerin isteniyor.",
+     "wer": 0.5,
+     "maskeli": "kritik seviyedeki ünlülerin isteniyor.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Soya küspesinin piyasa fiyatı ne kadar?",
+     "hyp": "doyaki kesinlikle yasak yasak ne kadar",
+     "wer": 0.667,
+     "maskeli": "doyaki kesinlikle yasak yasak ne kadar",
+     "maskelenen": []
+    },
+    {
+     "ref": "İki yüz ton mısır için teklifleri karşılaştır.",
+     "hyp": "200 ton nasıl için teklifleri karşılaştır.",
+     "wer": 0.429,
+     "maskeli": "200 ton nasıl için teklifleri karşılaştır.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Arpa için yüz elli tonluk sipariş taslağı hazırla.",
+     "hyp": "Alfa için 150 tonluk sipariş taslar hazırlar.",
+     "wer": 0.625,
+     "maskeli": "Alfa için 150 tonluk sipariş taslar hazırlar.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Onay bekleyen sipariş var mı?",
+     "hyp": "Onay bekleyen siper iş var mı?",
+     "wer": 0.4,
+     "maskeli": "Onay bekleyen siper iş var mı?",
+     "maskelenen": []
+    },
+    {
+     "ref": "Dolar kuru bugün kaç lira?",
+     "hyp": "Noman grubu hinkacım.",
+     "wer": 1.0,
+     "maskeli": "Noman grubu hinkacım.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Ayçiçek yağı için en uygun tedarikçi hangisi?",
+     "hyp": "Ayçiçek yağı için en mümkün tedarikçi hangisi?",
+     "wer": 0.143,
+     "maskeli": "Ayçiçek yağı için en mümkün tedarikçi hangisi?",
+     "maskelenen": []
+    },
+    {
+     "ref": "Beni sıfır beş yüz otuz iki, yüz on bir, yirmi iki, otuz üç numaradan arayın.",
+     "hyp": "Minisıkın 5.132.212.33 numaradan arayın.",
+     "wer": 0.867,
+     "maskeli": "Minisıkın 5.132.212.33 numaradan arayın.",
+     "maskelenen": []
+    },
+    {
+     "ref": "Delta Emtia'dan gelen mısır irsaliyesini siparişle karşılaştır.",
+     "hyp": "Delta Emtia'dan gelen Mısır İrsali isimi siparişle karşılaştır.",
+     "wer": 0.286,
+     "maskeli": "Delta Emtia'dan gelen Mısır İrsali isimi siparişle karşılaştır.",
+     "maskelenen": []
+    }
+   ]
+  },
+  "model": "whisper-small"
+ },
+ "tarih": "2026-11-07 00:31"
+}

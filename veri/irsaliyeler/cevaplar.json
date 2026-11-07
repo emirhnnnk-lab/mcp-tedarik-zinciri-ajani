@@ -1,0 +1,98 @@
+{
+ "irsaliye_01.png": {
+  "irsaliye_no": "IRS-2026-0412",
+  "tedarikci": "Delta Emtia SRL",
+  "urun": "Mısır",
+  "miktar_ton": 200.0,
+  "arac_plaka": "34 ABC 123",
+  "tarih": "12.11.2026"
+ },
+ "irsaliye_02.png": {
+  "irsaliye_no": "IRS-2026-0413",
+  "tedarikci": "Delta Emtia SRL",
+  "urun": "Mısır",
+  "miktar_ton": 187.5,
+  "arac_plaka": "34 ABC 123",
+  "tarih": "12.11.2026"
+ },
+ "irsaliye_03.png": {
+  "irsaliye_no": "IRS-2026-0420",
+  "tedarikci": "Alfa Tahıl A.Ş.",
+  "urun": "Buğday",
+  "miktar_ton": 100.0,
+  "arac_plaka": "06 TR 4521",
+  "tarih": "13.11.2026"
+ },
+ "irsaliye_04.png": {
+  "irsaliye_no": "IRS-2026-0431",
+  "tedarikci": "Gama Agro S.A.",
+  "urun": "Soya küspesi",
+  "miktar_ton": 250.0,
+  "arac_plaka": "35 KL 908",
+  "tarih": "14.11.2026"
+ },
+ "irsaliye_05.png": {
+  "irsaliye_no": "IRS-2026-0432",
+  "tedarikci": "Gama Agro S.A.",
+  "urun": "Soya küspesi",
+  "miktar_ton": 251.8,
+  "arac_plaka": "35 KL 908",
+  "tarih": "14.11.2026"
+ },
+ "irsaliye_06.png": {
+  "irsaliye_no": "IRS-2026-0440",
+  "tedarikci": "Beta Grain Ltd.",
+  "urun": "Ayçiçek yağı",
+  "miktar_ton": 30.0,
+  "arac_plaka": "61 AB 777",
+  "tarih": "15.11.2026"
+ },
+ "irsaliye_07.png": {
+  "irsaliye_no": "IRS-2026-0447",
+  "tedarikci": "Delta Emtia SRL",
+  "urun": "Arpa",
+  "miktar_ton": 150.0,
+  "arac_plaka": "41 DE 2290",
+  "tarih": "16.11.2026"
+ },
+ "irsaliye_08.png": {
+  "irsaliye_no": "IRS-2026-0448",
+  "tedarikci": "Delta Emtia SRL",
+  "urun": "Buğday",
+  "miktar_ton": 150.0,
+  "arac_plaka": "41 DE 2290",
+  "tarih": "16.11.2026"
+ },
+ "irsaliye_09.png": {
+  "irsaliye_no": "IRS-2026-0452",
+  "tedarikci": "Alfa Tahıl A.Ş.",
+  "urun": "Mısır",
+  "miktar_ton": 50.0,
+  "arac_plaka": "06 TR 4521",
+  "tarih": "17.11.2026"
+ },
+ "irsaliye_10.png": {
+  "irsaliye_no": "IRS-2026-0460",
+  "tedarikci": "Epsilon Ticaret Ltd.",
+  "urun": "Mısır",
+  "miktar_ton": 200.0,
+  "arac_plaka": "34 HZ 001",
+  "tarih": "18.11.2026"
+ },
+ "irsaliye_11.png": {
+  "irsaliye_no": "IRS-2026-0471",
+  "tedarikci": "Beta Grain Ltd.",
+  "urun": "Buğday",
+  "miktar_ton": 520.0,
+  "arac_plaka": "61 AB 777",
+  "tarih": "19.11.2026"
+ },
+ "irsaliye_12.png": {
+  "irsaliye_no": "IRS-2026-0475",
+  "tedarikci": "Alfa Tahıl A.Ş.",
+  "urun": "Arpa",
+  "miktar_ton": 30.0,
+  "arac_plaka": "06 TR 4522",
+  "tarih": "20.11.2026"
+ }
+}

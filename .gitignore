@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.db
+veri/sesler/_gurultulu_*.wav
+.pytest_cache/
+.venv-lg/
+eval/v1/coklu_modlu_v1.json
+eval/v1/coklu_modlu_v2.json
+eval/v1/coklu_modlu_v3_eskiadlar.json
+*.log

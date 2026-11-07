@@ -1,0 +1,14 @@
+mcp==2.3.0
+httpx
+pydantic>=2.12
+fastapi
+uvicorn
+python-multipart
+pytest
+anyio
+# çok modlu sunucular (belge, ses) için:
+torch
+transformers
+pillow
+librosa
+soundfile
