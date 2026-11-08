@@ -1,5 +1,7 @@
 # MCP Tedarik Zinciri Ajanı
 
+> **EN summary:** A procurement agent built on six MCP servers (stock, suppliers, market, orders, documents, voice) with a local LLM. The core question: what happens if the model is tricked? Answer: safety rules live in the server and in human approval, not in the model. The agent can only open draft orders; only the approval panel can issue the confirmation code. Synthetic data, fictional company names.
+
 Bir hammadde alım biriminin günlük işlerini (stok takibi, teklif karşılaştırma, sipariş taslağı, irsaliye ve sesli not okuma) **MCP sunucuları** üzerinden yapan, **lokal LLM** ile çalışan bir ajan. Projede asıl soru şuydu:
 
 > **Model kandırılırsa ne olur?** Cevap: güvenlik kuralları modelde değil, **sunucuda** ve **insan onayında** durmalı.
